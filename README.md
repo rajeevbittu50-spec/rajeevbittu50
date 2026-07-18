@@ -1,5 +1,5 @@
 # Rajeev-Ranjan
- 📈 Data Analyst with 4+ years of experience** transforming raw data into actionable business insights.
+ 📈 Data Analyst with 4+ years of experience transforming raw data into actionable business insights.
 
  💻 Skilled in SQL, Python, Excel, Power BI, Tableau, and ETL for data analysis and visualization.
 
